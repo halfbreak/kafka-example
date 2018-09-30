@@ -1,0 +1,1 @@
+Example of kafka publishing and receiving using docker-compose.
